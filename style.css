@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+.image {
+    text-align: center;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+.image:hover .pic{
+    opacity: 0.3;
+}
+table {
+    width:100%;
+  }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+#tablestyle th {
+    background-color: lightblue;
+    color: black;
+  }
